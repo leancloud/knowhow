@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# default command is buil
+# default command is build
 command=${1:-'build'}
 
 case $command in
