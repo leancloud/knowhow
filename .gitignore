@@ -1,0 +1,4 @@
+.log
+./_book
+*.pyc
+*.swp
